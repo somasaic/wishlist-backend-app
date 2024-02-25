@@ -1,0 +1,14 @@
+com\dinesh\projects\controller\WishController.class
+com\dinesh\projects\service\AppUserDetail.class
+com\dinesh\projects\repository\RoleRepository.class
+com\dinesh\projects\repository\AppUserRepository.class
+com\dinesh\projects\entity\AppUser.class
+com\dinesh\projects\entity\Role.class
+com\dinesh\projects\repository\WishRepository.class
+com\dinesh\projects\config\SecurityConfig.class
+com\dinesh\projects\controller\AppUserController.class
+com\dinesh\projects\service\AppUserService.class
+com\dinesh\projects\WishlistAppApplication.class
+com\dinesh\projects\entity\Wish.class
+com\dinesh\projects\exceptionhandler\GlobalExceptionHandler.class
+com\dinesh\projects\service\WishService.class

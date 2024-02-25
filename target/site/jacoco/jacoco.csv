@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+wishlist-app,com.dinesh.projects.service,AppUserService,0,71,0,2,0,16,0,5,0,4
+wishlist-app,com.dinesh.projects.service,AppUserDetail,0,39,0,2,0,7,0,4,0,3
+wishlist-app,com.dinesh.projects.service,WishService,0,63,0,4,0,16,0,6,0,4
+wishlist-app,com.dinesh.projects,WishlistAppApplication,5,3,0,0,2,1,1,1,1,1
+wishlist-app,com.dinesh.projects.controller,WishController,0,36,0,0,0,8,0,4,0,4
+wishlist-app,com.dinesh.projects.controller,AppUserController,0,27,0,2,0,7,0,4,0,3

@@ -1,0 +1,6 @@
+com\dinesh\projects\controller\AppUserControllerTest.class
+com\dinesh\projects\service\AppUserDetailTest.class
+com\dinesh\projects\WishlistAppApplicationTests.class
+com\dinesh\projects\service\WishServiceTest.class
+com\dinesh\projects\controller\WishControllerTest.class
+com\dinesh\projects\service\AppUserServiceTest.class
