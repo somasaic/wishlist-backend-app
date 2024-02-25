@@ -9,7 +9,7 @@
 
 https://api.postman.com/collections/24661809-f50e8520-21c5-4c24-9bb0-cc4157a34b52?access_key=PMAT-01HQFCGJG9J8P87P5WM51YBZA4
 8.	 signUp api
- 
+ ![image](https://github.com/somasaic/wishlist-backend-app/assets/80689758/5485dd55-c408-42d6-be28-93656a7d38c6)
 9.	Login
  
 10.	After login to app, for subsequent API request provide credentials of current logged in user in Basic Auth
